@@ -31,7 +31,7 @@ I enjoy working with real-world datasets, cleaning and preparing data, performin
 
 ---
 
-
+## Technical Skills
 ### Data Analysis & Statistics
 <p align="left">
   <img src="https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
