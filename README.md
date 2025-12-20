@@ -1,6 +1,18 @@
 # Hi, I'm Simphiwe Mngadi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&vCenter=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning+Enthusiast" />
 
+## Software & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAS-007CC3?style=for-the-badge&logo=sas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 
 
 Welcome to my GitHub profile.  
@@ -19,7 +31,6 @@ I enjoy working with real-world datasets, cleaning and preparing data, performin
 
 ---
 
-## Tools & Technologies
 
 ### Data Analysis & Statistics
 <p align="left">
