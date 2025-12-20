@@ -1,6 +1,7 @@
-# Hi, I'm Simphiwe Mngadi
+# Hi, I'm Simphiwe Mngadi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&vCenter=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning+Enthusiast" />
 
-**Mathematical Sciences Graduate | Data Analyst | Aspiring Data Scientist & Machine Learning Practitioner**
+
 
 Welcome to my GitHub profile.  
 I apply **statistics, data analytics, and machine learning** to extract insights from data and support data-driven decision-making in real-world contexts.
