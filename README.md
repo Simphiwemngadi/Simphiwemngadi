@@ -1,5 +1,5 @@
 # Hi, I'm Simphiwe Mngadi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&vCenter=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&vCenter=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning+Enthusiast;Business+Analyst" />
 
 ## Software & Technologies
 
