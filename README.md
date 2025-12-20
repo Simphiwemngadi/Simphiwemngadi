@@ -1,5 +1,5 @@
 # Hi, I'm Simphiwe Mngadi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&vCenter=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&vCenter=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning" />
 
 ## Software & Technologies
 
@@ -21,7 +21,8 @@ I apply **statistics, data analytics, and machine learning** to extract insights
 ---
 
 ## About Me
-- Diploma in **Mathematical Sciences**
+- Advanced Diploma in **Mathematical Sciences** 2025 (NQF 7)
+- Diploma in **Mathematical Sciences** 2024 (NQF 6)
 - Strong foundation in **Statistics, Data Analysis, and Research Methods**
 - Growing focus on **Data Science and Machine Learning**
 - Interests include **predictive modeling, business analytics, and socio-economic research**
